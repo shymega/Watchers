@@ -8,3 +8,11 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+  - package-ecosystem: "cargo"
+    directory: "/watchers_pinetime"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "cargo"
+    directory: "/watchers_watchy"
+    schedule:
+      interval: "weekly"

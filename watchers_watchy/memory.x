@@ -1,0 +1,5 @@
+MEMORY
+{
+FLASH : ORIGIN = , LENGTH = 
+  RAM : ORIGIN = , LENGTH = 
+}

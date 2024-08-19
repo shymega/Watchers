@@ -1,6 +1,6 @@
 [toolchain]
 channel = "esp"
-components = [ "rustfmt", "rust-src", "rust-std" ]
+components = [ "rustfmt" ]
 targets = [
     "thumbv7em-none-eabihf",
     "xtensa-esp32-espidf",
